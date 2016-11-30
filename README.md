@@ -7,7 +7,7 @@
    use_frameworks!
 
    target '<Your Target Name>' do
-    pod 'Alamofire', '~> 4.0'
+    pod 'SwiftDefine'
   end
 ```
 
