@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SwiftDefine: NSObject {
+public class SwiftDefine: NSObject {
     //MARK: 屏幕高
     public class func screenHeight() ->CGFloat{
         return UIScreen.main.bounds.size.height
