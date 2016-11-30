@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SwiftDefine"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.requires_arc = true
   s.summary      = "一行代码判断屏幕尺寸"
   s.homepage     = "https://github.com/JarvisHot/SwiftDefine"
